@@ -3,8 +3,8 @@
 > Today I Learned
 
 ### Categories
- * [Markdown](###Markdown)
- * [test](#Test)
+ - [Markdown](###Markdown)
+ - [test](#Test)
 
 
 ### [Markdown](Markdown)
